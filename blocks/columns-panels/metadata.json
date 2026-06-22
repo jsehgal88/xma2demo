@@ -1,0 +1,39 @@
+{
+  "variantName": "columns-panels",
+  "baseBlock": "columns",
+  "version": "1.0.0",
+  "created": "2026-06-22T06:49:31.226Z",
+  "sourceContext": {
+    "originUrl": "https://hostplus.com.au/",
+    "originPage": "Hostplus homepage",
+    "blockPosition": "middle"
+  },
+  "visualCharacteristics": {
+    "colorScheme": "mixed",
+    "density": "wide",
+    "purpose": "feature",
+    "imagePattern": "noimg"
+  },
+  "contentPattern": {
+    "structure": "light link-list panel | dark link-list panel",
+    "buttonCount": 0,
+    "imageCount": 0
+  },
+  "reuseGuidance": {
+    "suitableFor": [
+      "contrasting light/dark link-list panels",
+      "two-up navigation panels"
+    ],
+    "notSuitableFor": [
+      "image+text columns",
+      "logo clusters"
+    ]
+  },
+  "usage": {
+    "pagesUsing": [
+      "/index"
+    ],
+    "reuseCount": 1,
+    "lastUsed": "2026-06-22T06:49:31.226Z"
+  }
+}

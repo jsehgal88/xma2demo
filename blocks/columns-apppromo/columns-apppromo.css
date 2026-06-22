@@ -1,0 +1,33 @@
+.columns-apppromo > div {
+  display: flex;
+  flex-direction: column;
+}
+
+.columns-apppromo img {
+  width: 100%;
+}
+
+.columns-apppromo > div > div {
+  order: 1;
+}
+
+.columns-apppromo > div > .columns-apppromo-img-col {
+  order: 0;
+}
+
+.columns-apppromo > div > .columns-apppromo-img-col img {
+  display: block;
+}
+
+@media (width >= 900px) {
+  .columns-apppromo > div {
+    align-items: center;
+    flex-direction: unset;
+    gap: 24px;
+  }
+
+  .columns-apppromo > div > div {
+    flex: 1;
+    order: unset;
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "variantName": "hero-feature",
+  "baseBlock": "hero",
+  "version": "1.0.0",
+  "created": "2026-06-22T06:49:31.226Z",
+  "sourceContext": {
+    "originUrl": "https://hostplus.com.au/",
+    "originPage": "Hostplus homepage",
+    "blockPosition": "top"
+  },
+  "visualCharacteristics": {
+    "colorScheme": "dark",
+    "density": "spacious",
+    "purpose": "hero",
+    "imagePattern": "large"
+  },
+  "contentPattern": {
+    "structure": "heading + subheading + tile row",
+    "buttonCount": 0,
+    "imageCount": 1
+  },
+  "reuseGuidance": {
+    "suitableFor": [
+      "homepage hero banners",
+      "landing page headers with background photo"
+    ],
+    "notSuitableFor": [
+      "text-only CTA banners",
+      "content sections"
+    ]
+  },
+  "usage": {
+    "pagesUsing": [
+      "/index"
+    ],
+    "reuseCount": 1,
+    "lastUsed": "2026-06-22T06:49:31.226Z"
+  }
+}

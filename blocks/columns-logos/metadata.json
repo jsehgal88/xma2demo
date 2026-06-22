@@ -1,0 +1,39 @@
+{
+  "variantName": "columns-logos",
+  "baseBlock": "columns",
+  "version": "1.0.0",
+  "created": "2026-06-22T06:49:31.226Z",
+  "sourceContext": {
+    "originUrl": "https://hostplus.com.au/",
+    "originPage": "Hostplus homepage",
+    "blockPosition": "middle"
+  },
+  "visualCharacteristics": {
+    "colorScheme": "light",
+    "density": "wide",
+    "purpose": "cta",
+    "imagePattern": "large"
+  },
+  "contentPattern": {
+    "structure": "heading + paragraph + 2 CTAs | logo cluster",
+    "buttonCount": 2,
+    "imageCount": 1
+  },
+  "reuseGuidance": {
+    "suitableFor": [
+      "text + award/logo cluster layouts",
+      "CTA beside trust badges"
+    ],
+    "notSuitableFor": [
+      "link-list panels",
+      "app store promos"
+    ]
+  },
+  "usage": {
+    "pagesUsing": [
+      "/index"
+    ],
+    "reuseCount": 1,
+    "lastUsed": "2026-06-22T06:49:31.226Z"
+  }
+}

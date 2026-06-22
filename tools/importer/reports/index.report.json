@@ -1,0 +1,19 @@
+{
+  "status": "success",
+  "url": "https://hostplus.com.au/",
+  "path": "index",
+  "timestamp": "2026-06-22T07:07:59.824Z",
+  "title": "Members | Manage your Superannuation with Hostplus",
+  "template": "homepage",
+  "blocks": [
+    "hero-feature",
+    "cards-quicklinks",
+    "cards-promo",
+    "cards-pillars",
+    "columns-logos",
+    "cards-feature",
+    "columns-panels",
+    "hero-cta",
+    "columns-apppromo"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "sites": {
+    "xma2demo": {
+      "previewOrg": "jsehgal88",
+      "previewSite": "xma2demo",
+      "contentHostUrl": "https://content.da.live/jsehgal88/xma2demo/",
+      "libraryUrl": "https://main--sta-boilerplate--aemdemos.aem.page/tools/sidekick/library.json"
+    }
+  },
+  "type": "da"
+}

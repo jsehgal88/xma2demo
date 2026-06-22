@@ -1,0 +1,39 @@
+{
+  "variantName": "cards-feature",
+  "baseBlock": "cards",
+  "version": "1.0.0",
+  "created": "2026-06-22T06:49:31.226Z",
+  "sourceContext": {
+    "originUrl": "https://hostplus.com.au/",
+    "originPage": "Hostplus homepage",
+    "blockPosition": "middle"
+  },
+  "visualCharacteristics": {
+    "colorScheme": "light",
+    "density": "wide",
+    "purpose": "feature",
+    "imagePattern": "icon"
+  },
+  "contentPattern": {
+    "structure": "icon/illustration + heading + paragraph + link",
+    "buttonCount": 0,
+    "imageCount": 3
+  },
+  "reuseGuidance": {
+    "suitableFor": [
+      "explainer feature grids",
+      "3-item topic cards on light backgrounds"
+    ],
+    "notSuitableFor": [
+      "dark pillar grids",
+      "quick-link tile rows"
+    ]
+  },
+  "usage": {
+    "pagesUsing": [
+      "/index"
+    ],
+    "reuseCount": 2,
+    "lastUsed": "2026-06-22T06:49:31.226Z"
+  }
+}
