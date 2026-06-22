@@ -1,0 +1,101 @@
+{
+  "metadata": {
+    "projectType": "da"
+  },
+  "templates": [
+    {
+      "name": "homepage",
+      "urls": [
+        "https://hostplus.com.au/"
+      ],
+      "representativeUrl": "https://hostplus.com.au/",
+      "coverageGaps": [],
+      "description": "Hostplus homepage with hero, promo banners, brand pillars, content-media blocks, content-list, CTAs, and app promo",
+      "blocks": [
+        {
+          "name": "hero-feature",
+          "instances": [
+            "div.hero-block-V2 div.cmp-hero-block__wrapper"
+          ]
+        },
+        {
+          "name": "cards-quicklinks",
+          "instances": [
+            "div.hero-block-V2 div.cmp-hero-block-V2__container > div:nth-of-type(3)"
+          ]
+        },
+        {
+          "name": "section-promo",
+          "instances": [
+            "div.container-block.container.responsivegrid:nth-of-type(2)"
+          ],
+          "section": "light"
+        },
+        {
+          "name": "cards-promo",
+          "instances": [
+            "div.container-block.container.responsivegrid:nth-of-type(2)"
+          ]
+        },
+        {
+          "name": "section-pillars",
+          "instances": [
+            "div.brand-pillars"
+          ],
+          "section": "navy-blue"
+        },
+        {
+          "name": "cards-pillars",
+          "instances": [
+            "div.brand-pillars div.cmp-brand-pillars__item-container"
+          ]
+        },
+        {
+          "name": "columns-logos",
+          "instances": [
+            "div.cta.--mb-4xl"
+          ]
+        },
+        {
+          "name": "section-more-control",
+          "instances": [
+            "div.container-block.container.responsivegrid.--mb-4xl:nth-of-type(6)"
+          ],
+          "section": "light"
+        },
+        {
+          "name": "cards-feature",
+          "instances": [
+            "div.container-block.container.responsivegrid.--mb-4xl:nth-of-type(6) div.content-list-block",
+            "div.content-media-block.--mb-4xl:nth-of-type(8)"
+          ]
+        },
+        {
+          "name": "section-content-media",
+          "instances": [
+            "div.content-media-block.--mb-4xl:nth-of-type(8)"
+          ],
+          "section": "light"
+        },
+        {
+          "name": "columns-panels",
+          "instances": [
+            "div.content-list-block.cmp-content-list__items-wrapper--3cols"
+          ]
+        },
+        {
+          "name": "hero-cta",
+          "instances": [
+            "div.cta-shouty.--mb-4xl"
+          ]
+        },
+        {
+          "name": "columns-apppromo",
+          "instances": [
+            "div.apppromo.image.--mb-2xl"
+          ]
+        }
+      ]
+    }
+  ]
+}

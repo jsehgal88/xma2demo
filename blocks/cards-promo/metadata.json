@@ -1,0 +1,39 @@
+{
+  "variantName": "cards-promo",
+  "baseBlock": "cards",
+  "version": "1.0.0",
+  "created": "2026-06-22T06:49:31.226Z",
+  "sourceContext": {
+    "originUrl": "https://hostplus.com.au/",
+    "originPage": "Hostplus homepage",
+    "blockPosition": "top"
+  },
+  "visualCharacteristics": {
+    "colorScheme": "light",
+    "density": "wide",
+    "purpose": "promo",
+    "imagePattern": "large"
+  },
+  "contentPattern": {
+    "structure": "icon/image + heading + paragraph + CTA",
+    "buttonCount": 2,
+    "imageCount": 2
+  },
+  "reuseGuidance": {
+    "suitableFor": [
+      "promotional banner pairs",
+      "notice + media promo cards"
+    ],
+    "notSuitableFor": [
+      "dense icon grids",
+      "tabular data"
+    ]
+  },
+  "usage": {
+    "pagesUsing": [
+      "/index"
+    ],
+    "reuseCount": 1,
+    "lastUsed": "2026-06-22T06:49:31.226Z"
+  }
+}

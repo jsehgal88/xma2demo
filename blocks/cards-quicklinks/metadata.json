@@ -1,0 +1,39 @@
+{
+  "variantName": "cards-quicklinks",
+  "baseBlock": "cards",
+  "version": "1.0.0",
+  "created": "2026-06-22T06:49:31.226Z",
+  "sourceContext": {
+    "originUrl": "https://hostplus.com.au/",
+    "originPage": "Hostplus homepage",
+    "blockPosition": "top"
+  },
+  "visualCharacteristics": {
+    "colorScheme": "light",
+    "density": "compact",
+    "purpose": "quicklinks",
+    "imagePattern": "icon"
+  },
+  "contentPattern": {
+    "structure": "icon + label",
+    "buttonCount": 0,
+    "imageCount": 6
+  },
+  "reuseGuidance": {
+    "suitableFor": [
+      "quick-link tile rows",
+      "icon navigation grids"
+    ],
+    "notSuitableFor": [
+      "image-heavy cards",
+      "long-form content"
+    ]
+  },
+  "usage": {
+    "pagesUsing": [
+      "/index"
+    ],
+    "reuseCount": 1,
+    "lastUsed": "2026-06-22T06:49:31.226Z"
+  }
+}

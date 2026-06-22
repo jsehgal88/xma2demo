@@ -1,0 +1,39 @@
+{
+  "variantName": "columns-apppromo",
+  "baseBlock": "columns",
+  "version": "1.0.0",
+  "created": "2026-06-22T06:49:31.226Z",
+  "sourceContext": {
+    "originUrl": "https://hostplus.com.au/",
+    "originPage": "Hostplus homepage",
+    "blockPosition": "bottom"
+  },
+  "visualCharacteristics": {
+    "colorScheme": "light",
+    "density": "wide",
+    "purpose": "apppromo",
+    "imagePattern": "large"
+  },
+  "contentPattern": {
+    "structure": "heading + store badges | phone screenshots",
+    "buttonCount": 0,
+    "imageCount": 1
+  },
+  "reuseGuidance": {
+    "suitableFor": [
+      "mobile app download promos",
+      "text + device-image layouts"
+    ],
+    "notSuitableFor": [
+      "link-list panels",
+      "logo clusters"
+    ]
+  },
+  "usage": {
+    "pagesUsing": [
+      "/index"
+    ],
+    "reuseCount": 1,
+    "lastUsed": "2026-06-22T06:49:31.226Z"
+  }
+}
